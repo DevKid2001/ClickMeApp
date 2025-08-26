@@ -1,0 +1,38 @@
+# Visual Studio Cache
+.vs/
+*.opendb
+*.VC.db
+*.suo
+
+# Compilation Byproducts
+tlog/
+*.obj
+*.recipe
+*.ilk
+*.res
+*.idb
+*.pdb
+*.iobj
+*.lastbuildstate
+
+# build output
+x64/
+Release/
+Debug/
+
+# Compiled Binaries
+*.exe
+*.lib
+*.dll
+
+# Temporary files
+*.log
+*.tlog
+*.tmp
+
+# User-Specific Config
+*.vcxproj.user
+
+# OS junk files
+Thumbs.db
+.DS_Store
